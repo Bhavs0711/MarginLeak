@@ -1,0 +1,4 @@
+order_id,date,product_id,product_name,category,quantity,unit_price,discount_pct,unit_cost,shipping_cost,platform_fee_pct,returned
+ORD-00001,2026-04-12,P011,Storage Bins,Home & Kitchen,1,29.99,0.0,13.53,4.16,0.12,0
+ORD-00002,2026-04-26,P007,Air Fryer,Home & Kitchen,1,70.86,0.276,43.54,9.43,0.03,0
+ORD-00003,2025-11-26,P014,Denim Jeans,Fashion,2,53.21,0.1,29.0,3.94,0.05,0
